@@ -8,24 +8,24 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'SIGMA Lab'
+title: 'USYD CVLab'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: '@ USYD'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Welcome to the homepage of the SIGMA Lab at the Univeristy of Sydney'
+description: 'Welcome to the homepage of the CV Lab at the Univeristy of Sydney'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="https://kevin-ssy.github.io/">Shuyang Sun</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> </p>'
 
 # Main author of the website
 # See > authors.yml
-author: Shuyang Sun
+author: Weichen Zhang
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://sigmalab-usyd.github.io'
+url: 'https://usyd-cvlab.github.io'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://sigmalab-usyd.github.io/images/'
+urlimg: 'https://usyd-cvlab.github.io/images/'
 
 
 # Logo size is 600x80 pixels

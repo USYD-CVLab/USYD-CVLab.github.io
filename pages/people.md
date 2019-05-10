@@ -67,7 +67,7 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-		{% include member.html %}
+		{% include member.html photo="../images/people/guolu.jpg" name="Guo Lu" title="Ph.D." %}
 
 		{% include member.html %}
 		

@@ -20,7 +20,7 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		{% include member.html photo="../images/people/wanli_ouyang.jpeg" homepage="https://wlouyang.github.io/" name="Wanli Ouyang" title="Senior Lecturer" %}
+		{% include member.html photo="../images/people/dong xu.jpg" name="Dong Xu" title="Professor(IEEE Fellow)" %}
 	</div>
 
 
@@ -35,14 +35,14 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="M.Phil.-Ph.D." %}
+		{% include member.html photo="" name="Weichen Zhang" title="Ph.D." %}
 
-		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="M.Phil.-Ph.D." %}
+		{% include member.html photo="" name="Rui Su" title="Ph.D." %}
 
-		{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil." %}  <!-- person_style="margin-left: 15px;" -->
+		{% include member.html photo="" name="Zhiwang Zhang" title="Ph.D." %}  <!-- person_style="margin-left: 15px;" -->
+		{% include member.html photo="" name="Jingyang Guo" title="Ph.D." %}
 
-		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil." %}
-
+		{% include member.html photo="" name="Zhenghao Chen" title="Ph.D." %}
 	</div>
 </div>
 
@@ -55,9 +55,9 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-		{% include member.html photo="../images/people/lingbo_liu.png" homepage="http://lingboliu.com/" name="Lingbo Liu" title="Ph.D. from SYSU" %}
+		{% include member.html %}
 
-		{% include member.html photo="../images/people/hongwen_zhang.png" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
+		{% include member.html %}
 		
 		{% include member.html %}
 		
@@ -74,7 +74,7 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-	{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
+	{% include member.html photo="" name="Dongang Wang" title="M.Phil. (Graduated in Dec. 2018)" %}
     </div>	
 </div>
 
@@ -87,10 +87,6 @@ permalink: "/people/"
 	</div>
 
 {% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
-		
-{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
-
-{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 
 </div>
 

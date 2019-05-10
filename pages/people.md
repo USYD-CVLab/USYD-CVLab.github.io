@@ -105,7 +105,7 @@ permalink: "/people/"
 		<br/>
 	</div>
 
-{% include collaborator.html photo="../images/people/guo_lu.png" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
+	{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
 
 </div>
 

@@ -86,7 +86,7 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-	{% include member.html photo="" name="Dongang Wang" title="M.Phil. (Graduated in Dec. 2018)" %}
+	{% include member.html photo="../images/people/dongangwang.jpg" name="Dongang Wang" title="M.Phil. (Graduated in Dec. 2018)" %}
     </div>	
 </div>
 

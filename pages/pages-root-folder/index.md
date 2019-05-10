@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "SIGMA Lab @ USYD"
+title: "CVLab @ USYD"
 
 #slider:
 #text_color: white

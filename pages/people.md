@@ -24,6 +24,9 @@ permalink: "/people/"
 		
 		{% include member.html photo="../images/people/wanliouyang.jpg" name="Wanli Ouyang" title="Senior Lecturer
 		" %}
+		
+		{% include member.html %}
+		{% include member.html %}
 	</div>
 
 

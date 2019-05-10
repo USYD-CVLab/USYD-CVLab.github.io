@@ -111,7 +111,8 @@ permalink: "/people/"
 		<h5 class="medium-12">Professors & Researchers</h5>
 		<br>
 	</div>
-
+	{% include collaborator.html url="http://www.vision.ee.ethz.ch/~liwenw/" name="Wen Li" affil="ETH Zurich" %}
+	
 	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xgwang/" name="Xiaogang Wang" affil="Chinese Univ. of Hong Kong" %}
 
 	{% include collaborator.html url="https://www.ie.cuhk.edu.hk/people/xotang.shtml" name="Xiao'ou Tang" affil="Chinese Univ. of Hong Kong" %}

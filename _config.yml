@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'USYD CVLab'
+title: 'USYD CV Lab'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: '@ USYD'
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Shuyang Sun     # Default author for pages
+      author: Weichen Zhang     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Shuyang Sun     # Default author for posts
+      author: Weichen Zhang     # Default author for posts
 
 
 

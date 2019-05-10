@@ -20,7 +20,10 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		{% include member.html photo="../images/people/dong xu.jpg" name="Dong Xu" title="Professor(IEEE Fellow)" %}
+		{% include member.html photo="../images/people/dongxu.jpg" name="Dong Xu" title="Professor(IEEE Fellow)" %}
+		
+		{% include member.html photo="../images/people/wanliouyang.jpg" name="Wanli Ouyang" title="Senior Lecturer
+		" %}
 	</div>
 
 
@@ -35,14 +38,20 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		{% include member.html photo="" name="Weichen Zhang" title="Ph.D." %}
+		{% include member.html photo="../images/people/weichenzhang.jpg" name="Weichen Zhang" title="Ph.D." %}
 
 		{% include member.html photo="" name="Rui Su" title="Ph.D." %}
 
-		{% include member.html photo="" name="Zhiwang Zhang" title="Ph.D." %}  <!-- person_style="margin-left: 15px;" -->
+		{% include member.html photo="" name="Zhiwang Zhang" title="Ph.D." %}  
+		
 		{% include member.html photo="" name="Jingyang Guo" title="Ph.D." %}
 
 		{% include member.html photo="" name="Zhenghao Chen" title="Ph.D." %}
+		{% include member.html %}
+
+		{% include member.html %}
+		{% include member.html %}
+
 	</div>
 </div>
 

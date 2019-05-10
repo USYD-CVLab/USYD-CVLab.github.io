@@ -43,7 +43,7 @@ permalink: "/people/"
 	<div class="row">
 		{% include member.html photo="../images/people/weichenzhang.jpg" name="Weichen Zhang" title="Ph.D." %}
 
-		{% include member.html photo="" name="Rui Su" title="Ph.D." %}
+		{% include member.html photo="../images/people/ruisu.jpg" name="Rui Su" title="Ph.D." %}
 
 		{% include member.html photo="" name="Zhiwang Zhang" title="Ph.D." %}  
 		
@@ -67,7 +67,7 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-		{% include member.html photo="../images/people/guolu.jpg" name="Guo Lu" title="Ph.D." %}
+		{% include member.html %}
 
 		{% include member.html %}
 		
@@ -98,7 +98,7 @@ permalink: "/people/"
 		<br/>
 	</div>
 
-{% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
+{% include collaborator.html photo="../images/people/guo_lu.png" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
 
 </div>
 

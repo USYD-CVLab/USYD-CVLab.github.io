@@ -25,7 +25,8 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/wanliouyang.jpg" name="Wanli Ouyang" title="Senior Lecturer
 		" %}
 		
-		{% include member.html %}
+		{% include member.html photo="../images/people/lupingzhou.jpg" name="Luping Zhou" title="Senior Lecturer(ARC DECRA Fellow)
+		" %}
 		{% include member.html %}
 	</div>
 
@@ -51,11 +52,19 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/jingyangguo.jpg" name="Jingyang Guo" title="Ph.D." %}
 
 		{% include member.html photo="../images/people/zhenghaochen.jpg" name="Zhenghao Chen" title="Ph.D." %}
-		{% include member.html %}
+		
+		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="M.Phil.-Ph.D." %}
 
-		{% include member.html %}
-		{% include member.html %}
+		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="M.Phil.-Ph.D." %}
 
+		{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil." %}  <!-- person_style="margin-left: 15px;" -->
+
+		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil." %}
+		{% include member.html %}
+		
+		{% include member.html %}
+		
+		{% include member.html %}
 	</div>
 </div>
 
@@ -68,10 +77,9 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-		{% include member.html %}
+		{% include member.html photo="../images/people/lingbo_liu.png" homepage="http://lingboliu.com/" name="Lingbo Liu" title="Ph.D. from SYSU" %}
 
-		{% include member.html %}
-		
+		{% include member.html photo="../images/people/hongwen_zhang.png" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
 		{% include member.html %}
 		
 		{% include member.html %}
@@ -90,10 +98,11 @@ permalink: "/people/"
 	{% include member.html photo="../images/people/dongangwang.jpg" name="Dongang Wang" title="M.Phil. (Graduated in Dec. 2018)" %}
 	
 	{% include member.html photo="../images/people/jingwenhe.jpg" name="Jingwen He" title="M.Phil. (Graduated in 2018)" %}
+
+	{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
 	
 	{% include member.html %}
 
-	{% include member.html %}
     </div>	
 </div>
 
@@ -105,7 +114,11 @@ permalink: "/people/"
 		<br/>
 	</div>
 
-	{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
+	{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" title="Ph.D. from SJTU (2017-2019)" %}
+
+	{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
+
+	{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}ollaborat
 
 </div>
 

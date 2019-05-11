@@ -23,6 +23,11 @@ permalink: "/publication/"
 ### 2019
 Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code](https://github.com/GuoLusjtu/DVC)]
 
+Qiu, S., Nie, F., Xu, X., Qing, C., Xu, D. (2019). Accelerating Flexible Manifold Embedding for Scalable Semi-Supervised Learning. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, In Press. \[[pdf](http://dx.doi.org/10.1109/TCSVT.2018.2869875)\]
+																<li>Zhang, C., Fu, H., Hu, Q., Cao, X., Xie, Y., Tao, D., Xu, D. (2019). Generalized Latent Multi-View Subspace Clustering [Forthcoming]. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, In Press. <a href="http://dx.doi.org/10.1109/TPAMI.2018.2877660">[More Information]</a></li>
+																<li>Cheng, G., Han, J., Zhou, P., Xu, D. (2019). Learning rotation-invariant and fisher discriminative convolutional neural networks for object detection. <i>IEEE Transactions on Image Processing</i>, 28(1), 265-278. <a href="http://dx.doi.org/10.1109/TIP.2018.2867198">[More Information]</a></li>
+																<li>Zhang, D., Han, J., Yang, L., Xu, D. (2019). SPFTN: A Joint Learning Framework for Localizing and Segmenting Objects in Weakly Labeled Videos. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, In Press. <a href="http://dx.doi.org/10.1109/TPAMI.2018.2881114">[More Information]</a></li>
+																<li>Zhang, D., Han, J., Zhang, Y., Xu, D. (2019). Synthesizing Supervision for Learning Deep Saliency Network without Human Annotation. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, In Press. <a href="http://dx.doi.org/10.1109/TPAMI.2019.2900649">[More Information]</a></li>
 ### 2018
 Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018. [[source code](https://github.com/kevin-ssy/FishNet)]
 

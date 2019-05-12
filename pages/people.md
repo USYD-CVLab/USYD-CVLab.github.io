@@ -25,9 +25,8 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/wanliouyang.jpg" name="Wanli Ouyang" title="Senior Lecturer
 		" %}
 		
-		{% include member.html photo="../images/people/lupingzhou.jpg" name="Luping Zhou" title="Senior Lecturer(ARC DECRA Fellow)
-		" %}
-		{% include member.html %}
+		{% include member.html photo="../images/people/lupingzhou.jpg" name="Luping Zhou" title="Senior Lecturer(ARC DECRA Fellow)" %}
+		{% include member.html photo="../images/people/dongyuan.jpg" name="Dong Yuan" title="Senior Lecturer" %}
 	</div>
 
 

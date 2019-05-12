@@ -63,7 +63,7 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil." %}
 		{% include member.html photo="../images/people/zhizhen_zhou1.jpg" name="Zhizhen Zhou" title="M.Phil" %}
 		
-		{% include member.html photo="../images/people/kun_zhang.jpg" name="Kun Zhang" title="M.Phil" %}
+		{% include member.html photo="../images/people/kun_zhang1.jpg" name="Kun Zhang" title="M.Phil" %}
 		
 		{% include member.html %}
 	</div>

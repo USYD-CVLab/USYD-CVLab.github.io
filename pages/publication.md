@@ -33,6 +33,7 @@ Zhang, D., Han, J., Yang, L., Xu, D. (2019). SPFTN: A Joint Learning Framework f
 
 Zhang, D., Han, J., Zhang, Y., Xu, D. (2019). Synthesizing Supervision for Learning Deep Saliency Network without Human Annotation. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, In Press. <a href="http://dx.doi.org/10.1109/TPAMI.2019.2900649">[pdf]</a>
 
+Yu, B., Zhou, L., Wang, L., Shi, Y., Fripp, J., & Bourgeat, P. (2019). Ea-GANs: Edge-aware Generative Adversarial Networks for Cross-modality MR Image Synthesis. <i>IEEE Transactions on Medical Imaging</i>, PP(99), 1–1. <a href="https://doi.org/10.1109/TMI.2019.2895894">[pdf]</a>
 
 ### 2018
 Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018. [[source code](https://github.com/kevin-ssy/FishNet)]

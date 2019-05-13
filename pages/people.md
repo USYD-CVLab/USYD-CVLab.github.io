@@ -115,9 +115,9 @@ permalink: "/people/"
 
 	{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" title="Ph.D. from SJTU (2017-2019)" %}
 
-	{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
+	{% include member.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
 
-	{% include member.html photo="../images/people/yingyue_xu.jpeg" url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}ollaborat
+	{% include member.html photo="../images/people/yingyue_xu.jpeg" url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 
 </div>
 

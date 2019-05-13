@@ -117,7 +117,7 @@ permalink: "/people/"
 
 	{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
 
-	{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}ollaborat
+	{% include member.html photo="../images/people/yingyue_xu.jpeg" url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}ollaborat
 
 </div>
 

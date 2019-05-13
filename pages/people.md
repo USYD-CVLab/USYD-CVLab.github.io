@@ -94,10 +94,10 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
+	{% include member.html photo="../images/people/jingwenhe.jpg" name="Jingwen He" title="M.Phil. (Graduated in Dec. 2018)" %}
+
 	{% include member.html photo="../images/people/dongangwang.jpg" name="Dongang Wang" title="M.Phil. (Graduated in Dec. 2018)" %}
 	
-	{% include member.html photo="../images/people/jingwenhe.jpg" name="Jingwen He" title="M.Phil. (Graduated in 2018)" %}
-
 	{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
 	
 	{% include member.html %}

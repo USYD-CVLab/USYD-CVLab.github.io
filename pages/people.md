@@ -46,11 +46,12 @@ permalink: "/people/"
 		
 		{% include member.html photo="../images/people/weichenzhang.jpg" name="Weichen Zhang" title="Ph.D." %}
 
-		{% include member.html photo="../images/people/zhiwangzhang.jpg" name="Zhiwang Zhang" title="Ph.D." %}  
+		{% include member.html photo="../images/people/zhenghaochen.jpg" name="Zhenghao Chen" title="Ph.D." %}
 		
 		{% include member.html photo="../images/people/jinyangguo.jpg" name="Jinyang Guo" title="Ph.D." %}
 
-		{% include member.html photo="../images/people/zhenghaochen.jpg" name="Zhenghao Chen" title="Ph.D." %}
+		{% include member.html photo="../images/people/zhiwangzhang.jpg" name="Zhiwang Zhang" title="Ph.D." %}  
+		
 		
 		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D." %}
 

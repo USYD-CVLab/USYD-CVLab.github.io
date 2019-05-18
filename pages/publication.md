@@ -92,6 +92,23 @@ Guo, K., Liu, L., Xu, X., Xu, D., Tao, D. (2018). GoDec+: Fast and Robust Low-ra
 LIu, J., Shahroudy, A., Xu, D., Chichung, A., Wang, G. (2018). Skeleton-Based Action Recognition Using Spatio-Temporal LSTM Network with Trust Gates. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 40(12), 3007-3021. <a href="http://dx.doi.org/10.1109/TPAMI.2017.2771306">[pdf]</a>
 
 Li, W., Chen, L., Xu, D., Van Gool, L. (2018). Visual Recognition in RGB Images and Videos by Learning from RGB-D Data. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 40(8), 2030-2036. <a href="http://dx.doi.org/10.1109/TPAMI.2017.2734890">[pdf]</a>
+
+Zhou, L., Rekik, I., Yan, C., & Wu, G. (2018). Special Issue on High Performance Computing in Bio-medical Informatics. Neuroinformatics (Vol. 16, p. 283). <a href="https://doi.org/10.1007/s12021-018-9393-x">[pdf]</a>
+
+Wang, Y., Zhou, L., Yu, B., Wang, L., Zu, C., Lalush, D., … Shen, D. (2018). 3D auto-context-based locality adaptive multi-modality GANs for PET synthesis. <i>IEEE Transactions on Medical Imaging</i>, PP(99), 1–1. <a href="https://doi.org/10.1109/TMI.2018.2884053">[pdf]</a>
+
+Gao, Z., Wang, L., Zhou, L., & Gao, Z. (2019). A Probabilistic Approach to Cross-Region Matching-Based Image Retrieval. <i>IEEE Transactions on Image Processing : a Publication of the IEEE Signal Processing Society</i>, 28(3), 1191–1204. <a href="https://doi.org/10.1109/TIP.2018.2872831">[pdf]</a>
+
+Wang, Y., Yu, B., Wang, L., Zu, C., Lalush, D., Lin, W., … Zhou, L. (2018). 3D conditional generative adversarial networks for high-quality PET image estimation at low dose. NeuroImage, 174, 550–562. <a href="https://doi.org/10.1016/j.neuroimage.2018.03.045>[pdf]</a>
+
+Engin, M., Wang, L., Zhou, L., & Liu, X. (2018). DeepKSPD: Learning Kernel-matrix-based SPD Representation for Fine-grained Image Recognition. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 612-627).<a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.html">[pdf]</a>
+
+Zhao, Y., Wang, L., Zhou, L., Shi, Y., & Gao, Y. (2018). Modelling Diffusion Process by Deep Neural Networks for Image Retrieval. BMVC.<a href="https://www.semanticscholar.org/paper/Modelling-Diffusion-Process-by-Deep-Neural-Networks-Zhao-Wang/97067a82db56d11bcf587548afe2c5e7d0478bd0#extracted">[pdf]</a>
+
+Wang, Y., Zhou, L., Yu, B., Wang, L., Zu, C., Lalush, D., … Shen, D. (2018). 3D auto-context-based locality adaptive multi-modality GANs for PET synthesis. <i>IEEE Transactions on Medical Imaging</i>, PP(99), 1–1. <a href="https://doi.org/10.1109/TMI.2018.2884053">[pdf]</a>
+
+
+
 ### 2017
 
 Ouyang, W., Wang, K., Zhu, X., Wang, X. (2017). Chained Cascade Network for Object Detection. International Conference on Computer Vision (ICCV 2017).

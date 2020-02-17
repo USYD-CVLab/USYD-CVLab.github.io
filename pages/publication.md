@@ -23,7 +23,7 @@ permalink: "/publication/"
 ### 2019
 Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code](https://github.com/GuoLusjtu/DVC)]
 
-Qiu, S., Nie, F., Xu, X., Qing, C., Xu, D. (2019). Accelerating Flexible Manifold Embedding for Scalable Semi-Supervised Learning. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, In Press. \[[pdf](http://dx.doi.org/10.1109/TCSVT.2018.2869875)\]
+Suo Qiu, Feiping Nie, Xiangmin Xu, Chunmei Qing, Dong Xu (2019). Accelerating Flexible Manifold Embedding for Scalable Semi-Supervised Learning. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, In Press. \[[pdf](http://dx.doi.org/10.1109/TCSVT.2018.2869875)\]
 
 Zhang, C., Fu, H., Hu, Q., Cao, X., Xie, Y., Tao, D., Xu, D. (2019). Generalized Latent Multi-View Subspace Clustering [Forthcoming]. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, In Press. <a href="http://dx.doi.org/10.1109/TPAMI.2018.2877660">[pdf]</a>
 

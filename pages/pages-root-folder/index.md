@@ -156,6 +156,12 @@ homepage: true
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred." %}
         
+    {% include news_item.html  date="20-Nov-2019" content="Congratulations to Jinyang Guo 's paper accepted by AAAI 2020" %}
+
+    {% include news_item.html  date="20-Sep-2019" content="Congratulations to Guo Lu 's paper accepted by ICCV 2019" %}
+
+    {% include news_item.html  date="10-May-2019" content="Congratulations to Guo Lu 's paper accepted by CVPR 2019" %}
+
     {% include news_item.html  date="10-May-2019" content="Congratulations to Rui Su's paper accepted by CVPR 2019" %}
 
       {% include news_item.html  date="10-May-2019" content="Our lab homepage is now onine!" %}

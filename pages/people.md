@@ -53,6 +53,10 @@ permalink: "/people/"
 
 		{% include member.html photo="../images/people/zhenghaochen.jpg" name="Zhenghao Chen" title="Ph.D." %}
 		
+                {% include member.html photo="../images/people/feiyu_wang.jpg" name="Feiyu Wang" title="Ph.D." %}
+
+                {% include member.html photo="../images/people/kaisiyuan_wang.pdf" name="Kaisiyuan Wang" title="Ph.D." %} 
+
 		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D." %}
 
 		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D." %}
@@ -60,6 +64,7 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil." %}  
 		
 		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil." %}
+
 		{% include member.html photo="../images/people/zhizhen_zhou1.jpg" name="Zhizhen Zhou" title="M.Phil" %}
 		
 		{% include member.html photo="../images/people/kun_zhang1.jpg" name="Kun Zhang" title="M.Phil" %}
@@ -118,7 +123,7 @@ permalink: "/people/"
 
 	{% include member.html photo="../images/people/yingyue_xu.jpeg" url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 	
-	{% include member.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
+	{% include member.html photo="../images/people/yukai_shi.jpeg" url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
 
 	{% include member.html %}
 </div>

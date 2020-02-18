@@ -21,9 +21,9 @@ permalink: "/publication/"
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 
 ### 2019
-Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code](https://github.com/GuoLusjtu/DVC)]
+Lu, G., Ouyang, W., Xu, D., Zhang, X., Cai, C., Gao, Z. "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code](https://github.com/GuoLusjtu/DVC)]
 
-Suo Qiu, Feiping Nie, Xiangmin Xu, Chunmei Qing, Dong Xu (2019). Accelerating Flexible Manifold Embedding for Scalable Semi-Supervised Learning. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, In Press. \[[pdf](http://dx.doi.org/10.1109/TCSVT.2018.2869875)\]
+Qiu, S., Nie, F., Xu, X., Qing, C., Xu, D. (2019). Accelerating Flexible Manifold Embedding for Scalable Semi-Supervised Learning. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, In Press. \[[pdf](http://dx.doi.org/10.1109/TCSVT.2018.2869875)\]
 
 Zhang, C., Fu, H., Hu, Q., Cao, X., Xie, Y., Tao, D., Xu, D. (2019). Generalized Latent Multi-View Subspace Clustering [Forthcoming]. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, In Press. <a href="http://dx.doi.org/10.1109/TPAMI.2018.2877660">[pdf]</a>
 
@@ -36,47 +36,47 @@ Zhang, D., Han, J., Zhang, Y., Xu, D. (2019). Synthesizing Supervision for Learn
 Yu, B., Zhou, L., Wang, L., Shi, Y., Fripp, J., & Bourgeat, P. (2019). Ea-GANs: Edge-aware Generative Adversarial Networks for Cross-modality MR Image Synthesis. <i>IEEE Transactions on Medical Imaging</i>, PP(99), 1–1. <a href="https://doi.org/10.1109/TMI.2019.2895894">[pdf]</a>
 
 ### 2018
-Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018. [[source code](https://github.com/kevin-ssy/FishNet)]
+Sun, S., Pang, J., Shi, J., Yi, S., Ouyang, W. "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018. [[source code](https://github.com/kevin-ssy/FishNet)]
 
-Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Zhiyong Gao, Ming-Ting Sun, "Deep Kalman Filtering Network for Video Compression Artifact Reduction". ECCV 2018. 
+Lu, G., Ouyang, W., Xu, D., Zhang, X., Gao, Z., Sun, M. "Deep Kalman Filtering Network for Video Compression Artifact Reduction". ECCV 2018. 
 
-Lingbo Liu, HongjunWang, Guanbin Li, Wanli Ouyang, Liang Lin, "Crowd Counting using Deep Recurrent Spatial-Aware Network", IJCAI, 2018.
+Liu, L., Wang, H., Li,G., Ouyang, W., Lin, L. "Crowd Counting using Deep Recurrent Spatial-Aware Network", IJCAI, 2018.
 
-Hongyang Li, Yu Liu,Wanli Ouyang, XiaogangWang, "Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection," International Journal of Computer Vision (IJCV), Accepted Jun., 2018.
+Li, H., Liu, Y., Ouyang, W., Wang, X. "Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection," International Journal of Computer Vision (IJCV), Accepted Jun., 2018.
 
-Dan Xu, Elisa Ricci, Wanli Ouyang, Xiaogang Wang, Nicu Sebe, "Monocular Depth Estimation using Multi-Scale Continuous CRFs as Sequential Deep Networks," IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI), Accepted Apr., 2018
+Dan Xu, Elisa Ricci, Ouyang, W., Wang, X., Sebe, N., "Monocular Depth Estimation using Multi-Scale Continuous CRFs as Sequential Deep Networks," IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI), Accepted Apr., 2018
 
-Hui Zhou, Wanli Ouyang, Jian Cheng, Xiaogang Wang, and Hongsheng Li, "Deep Continuous Conditional Random Fields with Asymmetric Inter-object Constraints for Online Multi-object Tracking," IEEE Trans. Circuits and System for Video Technology (CSVT), Accepted Apr., 2018.
+Zhou, H., Ouyang, W., Cheng, J., Wang, X., and Li, H., "Deep Continuous Conditional Random Fields with Asymmetric Inter-object Constraints for Online Multi-object Tracking," IEEE Trans. Circuits and System for Video Technology (CSVT), Accepted Apr., 2018.
 
-Yanchun Li, Nanfeng Xiao, Wanli Ouyang, "Improved Boundary Equilibrium Generative Adversarial Networks," IEEE Access, Accepted Feb., 2018
+Li, Y., Xiao, N., Ouyang, W. "Improved Boundary Equilibrium Generative Adversarial Networks," IEEE Access, Accepted Feb., 2018
 
-Yi Wei, Xinyu Pan, Hongwei Qin, Junjie Yan, Wanli Ouyang, "Quantization Mimic: Towards Very Tiny CNN for Object Detection", ECCV, 2018.
+Yi Wei, Xinyu Pan, Hongwei Qin, Junjie Yan, Ouyang, W. "Quantization Mimic: Towards Very Tiny CNN for Object Detection", ECCV, 2018.
 
-Di Chen, Shanshan Zhang, Wanli Ouyang, Jian Yang, Ying Tai, "Person Search via A Mask-guided Two-stream CNN Model", ECCV, 2018.
+Di Chen, Zhang, S., Ouyang, W., Yang, J., Tai, Y. "Person Search via A Mask-guided Two-stream CNN Model", ECCV, 2018.
 
-Dongang Wang, Wanli Ouyang, Wen Li, Dong Xu, "Dividing and Aggregating Network for Multi-view Action Recognition", ECCV, 2018
+Wang, D., Ouyang, W., Li, W., Xu, D. "Dividing and Aggregating Network for Multi-view Action Recognition", ECCV, 2018
 
-Yikang Li, Wanli Ouyang, Bolei Zhou, Yanwen Cui, Jianping Shi, Chao Zhang, Xiaogang Wang, "Factorizable Net: An E_cient Subgraph-based Framework for Scene Graph Generation", ECCV, 2018.
+Li, Y., Ouyang, W., Zhou, B., Cui, Y., Shi, J., Zhang, C., Wang, X. "Factorizable Net: An E_cient Subgraph-based Framework for Scene Graph Generation", ECCV, 2018.
 
-Hongyang Li, Bo Dai, Wanli Ouyang, Xiaoyang Guo, Xiaogang Wang, "Neural Network Encapsulation ", ECCV, 2018.
+Li, H., Dai, B., Ouyang, W., Guo, X., Wang, X. "Neural Network Encapsulation ", ECCV, 2018.
 
-Xuanyi Dong, Yan Yan, Wanli Ouyang, Yi Yang. "Style Aggregated Network for Facial Landmark Detection", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Dong, X., Yan, Y., Ouyang, W., Yang, Y. "Style Aggregated Network for Facial Landmark Detection", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
-Yikang Li, Nan Duan, Bolei Zhou, Xiao Chu, Wanli Ouyang, Xiaogang Wang. "Visual Question Generation as Dual Task of Visual Question Answering", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Li, Y., Duan, N., Zhou, B., Chu, X., Ouyang, W., Wang, X. "Visual Question Generation as Dual Task of Visual Question Answering", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
-Jing Xu, Rui Zhao, Feng Zhu, Huaming Wang, Wanli Ouyang. "Attention-aware Compositional Network for Person Re-Identication", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Xu, J., Zhao, R., Zhu, F., Wang, H., Ouyang, W.. "Attention-aware Compositional Network for Person Re-Identication", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
-YuWu, Yutian Lin, Xuanyi Dong, Yan Yan,Wanli Ouyang, Yi Yang. "Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identication by Stepwise Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Wu, Y., Lin, Y., Dong, X., Yan, Y., Ouyang, W., Yi Yang. "Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identication by Stepwise Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
-Wei Yang, Wanli Ouyang, Xiaolong Wang, Xiaogang Wang. "3D Human Pose Estimation in the Wild by Adversarial Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Yang, W., Ouyang, W., Wang, X., Wang, X. "3D Human Pose Estimation in the Wild by Adversarial Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
-Weichen Zhang, Wanli Ouyang, Dong Xu, Wen Li. "Collaborative and Adversarial Network for Unsupervised domain adaptation", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Zhang, W., Ouyang, W., Xu, D., Li, W. "Collaborative and Adversarial Network for Unsupervised domain adaptation", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
-Shuyang Sun, Zhanghui Kuang, Lu Sheng, Wanli Ouyang, Wei Zhang. "Optical Flow Guided Feature: A Motion Representation for Video Action Recognition", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Sun, S., Kuang, Z., Sheng, L., Ouyang, W., Zhang, W. "Optical Flow Guided Feature: A Motion Representation for Video Action Recognition", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
-Dan Xu, Wanli Ouyang, Xiaogang Wang, Nicu Sebe. "PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Xu, D., Ouyang, W., Wang, X., Sebe, N.  "PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
-Chunfeng Song, Yan Huang, Liang Wang, Wanli Ouyang. "Mask-guided Contrastive Attention Model for Person Re-Identication ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Song, C., Huang, Y., Wang, L., Ouyang, W. "Mask-guided Contrastive Attention Model for Person Re-Identication ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
 
 Han, J., Zhang, D., Cheng, G., Liu, N., Xu, D. (2018). Advanced Deep-Learning Techniques for Salient and Category-Specific Object Detection: A survey. <i>IEEE Signal Processing Magazine</i>, 35(1), 84-100. <a href="http://dx.doi.org/10.1109/MSP.2017.2749125">[pdf]</a>
@@ -243,7 +243,7 @@ Tan, M., Xiao, S., Gao, J., Xu, D., van den Hengel, A., Shi, Q. (2016). Proximal
 
 Zhang, Y., Meng, K., Xu, D., Lai, M., Zheng, Y. (2016). Recommending Electricity Plans: A Data-driven Method. <i>2016 IEEE International Conference on Smart Grid Communications (SmartGridComm)</i>, Piscataway: Institute of Electrical and Electronics Engineers (IEEE). <a href="http://dx.doi.org/10.1109/SmartGridComm.2016.7778838">[pdf]</a>
 
-LIu, J., Shahroudy, A., Xu, D., Wang, G. (2016). Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition. <i>14th European Conference on Computer Vision (ECCV 2016)</i>, Cham, Switzerland: Springer International Publishing. <a href="http://dx.doi.org/10.1007/978-3-319-46487-9_50">[pdf]</a>
+Liu, J., Shahroudy, A., Xu, D., Wang, G. (2016). Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition. <i>14th European Conference on Computer Vision (ECCV 2016)</i>, Cham, Switzerland: Springer International Publishing. <a href="http://dx.doi.org/10.1007/978-3-319-46487-9_50">[pdf]</a>
 
 
 ### 2015
@@ -429,7 +429,7 @@ Chen, L., Xu, D., Tsang, I., Luo, J. (2012). Tag-Based Image Retrieval Improved 
 
 Duan, L., Xu, D., Tsang, I., Luo, J. (2012). Visual Event Recognition in Videos by Learning from Web Data. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 34(9), 1667-1680. <a href="http://dx.doi.org/10.1109/TPAMI.2011.265">[pdf]</a>
 
-Wanli Ouyang, Renqi Zhang and Wai-Kuen Cham, "Fast pattern matching using orthogonal Haar transform ", In IEEE CVPR 2010.
+Ouyang, w., Zhang, R., Cham, W. "Fast pattern matching using orthogonal Haar transform ", In IEEE CVPR 2010.
 
 Li, W., Duan, L., Tsang, I., Xu, D. (2012). Batch Mode Adaptive Multiple Instance Learning for Computer Vision Tasks. <i>2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2012)</i>, Providence: Institute of Electrical and Electronics Engineers (IEEE). <a href="http://dx.doi.org/10.1109/CVPR.2012.6247949">[pdf]</a>
 
@@ -500,15 +500,15 @@ Xu, D., Yan, S., Lin, S., Huang, T., Chang, S. (2009). Enhancing Bilinear Subspa
 
 Xu, D., Yan, S. (2009). Semi-supervised bilinear subspace learning. <i>IEEE Transactions on Image Processing</i>, 18(7), 1671-1676. <a href="http://dx.doi.org/10.1109/TIP.2009.2018015">[pdf]</a>
 
-Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Deblocking using Dual Adaptive FIR Wiener Filter in the DCT Transform Domain," In IEEE Int. Conf. Acoustics, Speech, and Signal Processing, ICASSP 2009, Taiwan, April 19-24, 2009, pp.1181-1184.
+Zhang, R.,   Ouyang, W., Cham, W. "Image Deblocking using Dual Adaptive FIR Wiener Filter in the DCT Transform Domain," In IEEE Int. Conf. Acoustics, Speech, and Signal Processing, ICASSP 2009, Taiwan, April 19-24, 2009, pp.1181-1184.
 
-Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Multi-scale Edge Detection using 3-D Hidden Markov Model based on the Non-decimated Wavelet," In 2009 IEEE International Conference on Image Processing (ICIP), Cairo, Egypt, November 7-10, 2009, pp.2173-2176.
+Zhang, R., Ouyang, W., Cham, W. "Image Multi-scale Edge Detection using 3-D Hidden Markov Model based on the Non-decimated Wavelet," In 2009 IEEE International Conference on Image Processing (ICIP), Cairo, Egypt, November 7-10, 2009, pp.2173-2176.
 
-Wanli Ouyang, D. Song, C. Xiao, and W. Ju. The matrix decomposition representation of DCT algorithms. In IEEE midwest sym. Circuits and Syst. (MWCAS), 2005. 
+Ouyang, W., Song, D., Xiao, C., Ju, W. The matrix decomposition representation of DCT algorithms. In IEEE midwest sym. Circuits and Syst. (MWCAS), 2005. 
 
-Wanli Ouyang, C. Xiao, W. Ju, and D. Song. The dynamic range acquisition of DCT and IDCT algorithms. In IEEE midwest sym. Circuits and Syst. (MWCAS), 2005. 
+Ouyang, W., Xiao, C., Ju, W., Song, D. The dynamic range acquisition of DCT and IDCT algorithms. In IEEE midwest sym. Circuits and Syst. (MWCAS), 2005. 
 
-Wanli Ouyang, C. Xiao, W. Ju, and D. Song. Practical fast asymmetric DCT algorithm based on SIMD and VLIW. In IEEE Int. Sym. Intelligent Signal Processing , 2005. 
+Ouyang, W., Xiao, C., Ju, W., Song, D. Practical fast asymmetric DCT algorithm based on SIMD and VLIW. In IEEE Int. Sym. Intelligent Signal Processing , 2005. 
 
 
 

@@ -28,7 +28,7 @@ permalink: "/people/"
 		
                 {% include member.html photo="../images/people/dongyuan.jpg" name="Dong Yuan" title="Senior Lecturer" %}
 
-                {% include member.html photo="../images/people/shuhang_gu.png" name="Shuhang Gu" title="Lecturer" %}
+                {% include member.html align="right" photo="../images/people/shuhang_gu.png" name="Shuhang Gu" title="Lecturer" %}
 	</div>
 
 

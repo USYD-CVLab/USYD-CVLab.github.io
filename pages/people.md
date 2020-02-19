@@ -55,7 +55,7 @@ permalink: "/people/"
 		
                 {% include member.html photo="../images/people/feiyu_wang.jpg" name="Feiyu Wang" title="Ph.D." %}
 
-                {% include member.html photo="../images/people/kaisiyuan_wang.pdf" name="Kaisiyuan Wang" title="Ph.D." %} 
+                {% include member.html photo="../images/people/kaisiyuan_wang.png" name="Kaisiyuan Wang" title="Ph.D." %} 
 
 		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D." %}
 
@@ -123,7 +123,7 @@ permalink: "/people/"
 
 	{% include member.html photo="../images/people/yingyue_xu.jpeg" url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 	
-	{% include member.html photo="../images/people/yukai_shi.jpeg" url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
+	{% include member.html photo="../images/people/yukai_shi.jpg" url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
 
 	{% include member.html %}
 </div>

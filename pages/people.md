@@ -46,8 +46,7 @@ permalink: "/people/"
 	
 		{% include member.html photo="../images/people/ruisu.jpg" name="Rui Su" title="Ph.D." %}
 		
-		{% include member.html photo="../images/people/weichenzhang.jpg" name="Weichen Zhang" title="Ph.D." %}
-		
+		{% include member.html photo="../images/people/weichenzhang.jpg" name="Weichen Zhang" title="Ph.D." %}		
 		
 		{% include member.html photo="../images/people/zhiwangzhang.jpg" name="Zhiwang Zhang" title="Ph.D." %} 
 		
@@ -71,7 +70,7 @@ permalink: "/people/"
 
                 {% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu chen" title="Ph.D." %}
 
-		{% include member.html photo="../images/people/xianghui_yang.jpeg" name="Xianghui Yang" title="Ph.D." %}
+		{% include member.html photo="../images/people/xianghui_yang.jpg" name="Xianghui Yang" title="Ph.D." %}
 
 		{% include member.html photo="../images/people/zhizhen_zhou1.jpg" name="Zhizhen Zhou" title="M.Phil" %}
 		

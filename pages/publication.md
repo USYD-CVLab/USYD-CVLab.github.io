@@ -18,18 +18,6 @@ permalink: "/publication/"
 
 ---
 
-For more publications, please refer to the supervisors' own homepage:
-
-\[[pdf](http://dx.doi.org/10.1109/TCSVT.2018.2869875)\]
-
-Dr. Wanli Ouyang
-
-Dr. Luping Zhou
-
-Dr. Dong Yuan
-
-Dr. Shuhang Gu
-
 
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 

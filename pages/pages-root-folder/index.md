@@ -81,7 +81,7 @@ homepage: true
 
       		{% include carousel_item.html  url="http://cvboy.com/publication/cvpr2017_vip_cnn/" image="images/relation.jpg" alt="Visual Relationship Detection" title="Visual Relationship Detection" caption="Visual relationship detection involves detecting and localizing pairs of interacting objects in an image and also classifying the predicate or interaction between them. We are now working on this challenging problem. Click to see the detail!" %}
 
-      		{% include carousel_item.html  url="http://mmlab.ie.cuhk.edu.hk/projects/project_salience_reid/index.html" image="images/re-id.png" alt="Re-Identification" title="Person Re-Identification (ReID)" caption="Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years." %}
+#      		{% include carousel_item.html  url="http://mmlab.ie.cuhk.edu.hk/projects/project_salience_reid/index.html" image="images/re-id.png" alt="Re-Identification" title="Person Re-Identification (ReID)" caption="Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years." %}
         </div>
 
         <!-- Left and right controls -->
@@ -155,16 +155,17 @@ homepage: true
     {% include news_item.html 
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred." %}
-        
+    {% include news_item.html  date="20-Dec-2019" content="Congratulations to Weichen Zhang 's paper accepted by TPAMI" %}        
+    
     {% include news_item.html  date="20-Nov-2019" content="Congratulations to Jinyang Guo 's paper accepted by AAAI 2020" %}
 
-    {% include news_item.html  date="20-Sep-2019" content="Congratulations to Guo Lu 's paper accepted by ICCV 2019" %}
+    {% include news_item.html  date="22-July-2019" content="Congratulations to Lingbo Liu 's paper accepted by ICCV 2019" %}
 
     {% include news_item.html  date="10-May-2019" content="Congratulations to Guo Lu 's paper accepted by CVPR 2019" %}
 
     {% include news_item.html  date="10-May-2019" content="Congratulations to Rui Su's paper accepted by CVPR 2019" %}
 
-      {% include news_item.html  date="10-May-2019" content="Our lab homepage is now onine!" %}
+    {% include news_item.html  date="10-May-2019" content="Our lab homepage is now onine!" %}
 
 
     </div>

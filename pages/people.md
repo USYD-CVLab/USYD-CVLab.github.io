@@ -93,6 +93,9 @@ permalink: "/people/"
 		
 
 		{% include member.html photo="../images/people/hongwen_zhang.png" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
+
+                {% include member.html photo="../images/people/yan_lu.jpg" name="Yan Lu" title="Master from USTC" %}
+
 		{% include member.html %}
 		
 		{% include member.html %}
@@ -114,9 +117,9 @@ permalink: "/people/"
 	
 	{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
 	
-        {% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil." %}
+        {% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil.(Graduated in Dec. 2019)" %}
 
-        {% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil." %}   
+        {% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil.(Graduated in Dec. 2019)" %}   
    
 	{% include member.html %}
 

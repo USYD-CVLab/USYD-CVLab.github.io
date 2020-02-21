@@ -16,9 +16,11 @@ header:
 
 permalink: "/publication/"
 
+---
+
 For more publications, please refer to the supervisors' own homepage:
 
-\[Prof. Dong Xu (https://sydney.edu.au/engineering/about/our-people/academic-staff/dong-xu.html#collapseReStudents]
+\[[pdf](http://dx.doi.org/10.1109/TCSVT.2018.2869875)\]
 
 Dr. Wanli Ouyang
 
@@ -28,8 +30,6 @@ Dr. Dong Yuan
 
 Dr. Shuhang Gu
 
-
----
 
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 

@@ -59,7 +59,10 @@ permalink: "/people/"
 		
 		{% include member.html photo="../images/people/zhiwangzhang.jpg" name="Zhiwang Zhang" title="Ph.D." %} 
 		
-		{% include member.html photo="../images/people/jinyangguo.jpg" name="Jinyang Guo" title="Ph.D." %} 
+		{% include member.html photo="../images/people/jinyangguo.jpg" name="Jinyang Guo" title="Ph.D." %}
+        </div>
+
+	<div class="row"> 
 
 		{% include member.html photo="../images/people/zhenghaochen.jpg" name="Zhenghao Chen" title="Ph.D." %}
 		
@@ -68,6 +71,9 @@ permalink: "/people/"
                 {% include member.html photo="../images/people/kaisiyuan_wang.png" name="Kaisiyuan Wang" title="Ph.D." %} 
 
 		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D." %}
+        </div>
+
+	<div class="row"> 
 
 		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D." %}
 
@@ -76,16 +82,29 @@ permalink: "/people/"
                 {% include member.html photo="../images/people/weitao_feng.jpg" name="Weitao feng" title="Ph.D." %}
 
                 {% include member.html photo="../images/people/peixia_li.jpg" name="PeiXia Li" title="Ph.D." %}
+        </div>
+
+	<div class="row"> 
 
                 {% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu chen" title="Ph.D." %}
+
+                {% include member.html photo="../images/people/yuanzheng_ci.jpg.jpg" name="Yuanzheng Ci" title="Ph.D." %}
 
 		{% include member.html photo="../images/people/xianghui_yang.jpg" name="Xianghui Yang" title="Ph.D." %}
 
 		{% include member.html photo="../images/people/zhizhen_zhou1.jpg" name="Zhizhen Zhou" title="M.Phil" %}
 		
+        </div>
+
+	<div class="row"> 
+
 		{% include member.html photo="../images/people/kun_zhang1.jpg" name="Kun Zhang" title="M.Phil" %}
 		
 		{% include member.html %}
+
+                {% include member.html %}
+
+                {% include member.html %}
 	</div>
 </div>
 
@@ -127,9 +146,17 @@ permalink: "/people/"
 	
         {% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil.(Graduated in Dec. 2019)" %}
 
+        </div>
+
+	<div class="row"> 
+
         {% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil.(Graduated in Dec. 2019)" %}   
    
 	{% include member.html %}
+ 
+        {% include member.html %}
+         
+        {% include member.html %}
 
     </div>	
 </div>

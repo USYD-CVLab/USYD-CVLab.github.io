@@ -27,8 +27,17 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/lupingzhou.jpg" name="Luping Zhou" title="Senior Lecturer(ARC DECRA Fellow)" %}
 		
                 {% include member.html photo="../images/people/dongyuan.jpg" name="Dong Yuan" title="Senior Lecturer" %}
+        </div>
 
-                {% include member.html photo="../images/people/shuhang_gu.png" name="Shuhang Gu" title="Lecturer" %}
+	<div class="row">
+
+                {% include member.html align="left" photo="../images/people/shuhang_gu.png" name="Shuhang Gu" title="Lecturer" %}
+                
+                {% include member.html photo="" name="" title="" %}
+
+                {% include member.html photo="" name="" title="" %}
+
+                {% include member.html photo="" name="" title="" %}
 	</div>
 
 

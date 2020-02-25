@@ -21,8 +21,8 @@ permalink: "/publication/"
 
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 
-For more publications, please refer to the supervisors' own homepage: [Prof. Dong Xu](http://dx.doi.org/10.1109/TCSVT.2018.2869875), [Dr. Wanli Ouyang](http://dx.doi.org/10.1109/TCSVT.2018.2869875),
-[Dr. Luping Zhou](http://dx.doi.org/10.1109/TCSVT.2018.2869875),[Dr. Yuan Dong](http://dx.doi.org/10.1109/TCSVT.2018.2869875), [Dr. Shuhang Gu](http://dx.doi.org/10.1109/TCSVT.2018.2869875),
+For more publications, please refer to the supervisors' own homepage: [Prof. Dong Xu](https://sydney.edu.au/engineering/about/our-people/academic-staff/dong-xu.html#collapseReStudents), [Dr. Wanli Ouyang](https://wlouyang.github.io/),
+[Dr. Luping Zhou](https://sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html),[Dr. Yuan Dong](https://sydney.edu.au/engineering/about/our-people/academic-staff/dong-yuan.html) and  [Dr. Shuhang Gu](https://sites.google.com/site/shuhanggu/home),
 
 ### 2019
 Lu, G., Ouyang, W., Xu, D., Zhang, X., Cai, C., Gao, Z. (2019). "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code](https://github.com/GuoLusjtu/DVC)]

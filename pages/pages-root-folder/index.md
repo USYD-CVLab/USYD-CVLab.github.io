@@ -32,7 +32,7 @@ widget1:
   url: 'https://youtu.be/ZtbUcv_OIZg'
   text: 'We are also conducting reseaches about detecting objects in videos, check out our demo!'
   video: '<iframe src="https://www.youtube.com/embed/ZtbUcv_OIZg" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
-widget1:
+widget2:
   title: "Pose Tracking"
   url: 'https://youtu.be/CiKJuAH2U8I'
   video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'

@@ -21,6 +21,8 @@ permalink: "/publication/"
 
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 
+For more publications, please refer to the supervisors' own homepage:
+
 ### 2019
 Lu, G., Ouyang, W., Xu, D., Zhang, X., Cai, C., Gao, Z. (2019). "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code](https://github.com/GuoLusjtu/DVC)]
 

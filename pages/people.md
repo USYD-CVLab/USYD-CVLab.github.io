@@ -88,7 +88,7 @@ permalink: "/people/"
 
                 {% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu chen" title="Ph.D." %}
 
-                {% include member.html photo="../images/people/yuanzheng_ci.jpg.jpg" name="Yuanzheng Ci" title="Ph.D." %}
+                {% include member.html photo="../images/people/yuanzheng_ci.jpg" name="Yuanzheng Ci" title="Ph.D." %}
 
 		{% include member.html photo="../images/people/xianghui_yang.jpg" name="Xianghui Yang" title="Ph.D." %}
 

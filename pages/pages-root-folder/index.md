@@ -22,17 +22,17 @@ title: "CVLab @ USYD"
 
 sidebar: right
 
+#widget1:
+#  title: "Pose Estimation"
+#  url: 'https://youtu.be/fSLmi166Mdk'
+#  video: '<iframe src="https://www.youtube.com/embed/fSLmi166Mdk" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
+#  text: 'Check out our demo for multi-person <br/> pose estimation!'
 widget1:
-  title: "Pose Estimation"
-  url: 'https://youtu.be/fSLmi166Mdk'
-  video: '<iframe src="https://www.youtube.com/embed/fSLmi166Mdk" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
-  text: 'Check out our demo for multi-person <br/> pose estimation!'
-widget2:
   title: "Video Detection"
   url: 'https://youtu.be/ZtbUcv_OIZg'
   text: 'We are also conducting reseaches about detecting objects in videos, check out our demo!'
   video: '<iframe src="https://www.youtube.com/embed/ZtbUcv_OIZg" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
-widget3:
+widget1:
   title: "Pose Tracking"
   url: 'https://youtu.be/CiKJuAH2U8I'
   video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'

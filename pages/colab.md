@@ -34,7 +34,7 @@ import os
 os.chdir("/content/gdrive/My Drive/Colab Notebooks/{YOUR_DIR}")
 ~~~~
 
-2. Open a New notebook and write scripts similar to the Jupyter Notebook by using IPython programming.
+2.Open a New notebook and write scripts similar to the Jupyter Notebook by using IPython programming.
 
 e.g. check whether GPU is available:
 
@@ -45,7 +45,7 @@ print(torch.cuda.is_available())
 
 Usually, if it is not available, please do the following step to enable the GPU.
 
-3. (**Important!**) Make sure the GPU is on in the Edit -> Notebook Settings -> Hardware Accelerator (GPU)!
+3.(**Important!**) Make sure the GPU is on in the Edit -> Notebook Settings -> Hardware Accelerator (GPU)!
 
 <img src="../../images/image2.png" width="300">
 <img src="../../images/image3.png" width="500">
@@ -53,7 +53,7 @@ Usually, if it is not available, please do the following step to enable the GPU.
 
 Then, the program can be easily run with GPU by clicking the triangle run button at the top.
 
-4. (Optional) The .py program can also be easily run by typing:
+4.(**Optional**) The .py program can also be easily run by typing:
 
 ~~~~
 ! python example.py

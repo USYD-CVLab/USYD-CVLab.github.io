@@ -12,7 +12,7 @@ The usage of Colab is well described in the following tutorial page down below. 
 
 Reference: [https://colab.research.google.com/notebooks/welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb)
 
-<img src="../images/image1.png" width="500">
+<img src="/master/images/image1.png" width="500">
 
 ## Usage of Colab
 
@@ -47,8 +47,8 @@ Usually, if it is not available, please do the following step to enable the GPU.
 
 3. (**Important!**) Make sure the GPU is on in the Edit -> Notebook Settings -> Hardware Accelerator (GPU)!
 
-<img src="/master/pages/images/image2.png" width="300">
-<img src="/master/pages/images/image3.png" width="500">
+<img src="/master/images/image2.png" width="300">
+<img src="/master/images/image3.png" width="500">
 
 
 Then, the program can be easily run with GPU by clicking the triangle run button at the top.

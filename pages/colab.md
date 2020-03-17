@@ -72,5 +72,5 @@ to see and change the working directory to run.
 
 ## Good Colab Example: 
 
-**CVAE with MNIST dataset**: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb
+**CVAE with MNIST dataset**: [https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb])
 

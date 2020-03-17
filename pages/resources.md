@@ -11,4 +11,4 @@ permalink: "/resources/"
 
 Useful Tips:
 
-1.[Colab Tips](../colab.md)
+1. [Colab Tips](../colab.md)

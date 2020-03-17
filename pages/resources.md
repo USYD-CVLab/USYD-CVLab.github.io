@@ -9,6 +9,6 @@ header:
 permalink: "/resources/"
 ---
 
-Useful Tips:
+## Useful Tips:
 
 1. [Colab Tips](../colab.md)

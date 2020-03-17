@@ -47,8 +47,9 @@ Usually, if it is not available, please do the following step to enable the GPU.
 
 3. (**Important!**) Make sure the GPU is on in the Edit -> Notebook Settings -> Hardware Accelerator (GPU)!
 
-![alt text](../images/image2.png){ width=30% }
-![alt text](../images/image3.png){ width=30% }
+<img src="h../images/image2.png" width="48">
+<img src="../images/image3.png" width="48">
+
 
 Then, the program can be easily run with GPU by clicking the triangle run button at the top.
 

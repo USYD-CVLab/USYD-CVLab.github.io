@@ -52,13 +52,22 @@ Usually, if it is not available, please do the following step to enable the GPU.
 
 Then, the program can be easily run with GPU by clicking the triangle run button at the top.
 
-4. (Optional) The .py program can be also easily run by typing:
+4. (Optional) The .py program can also be easily run by typing:
 
 ~~~~
 ! python example.py
 ~~~~
 
-in the notebook by adding a '!' before the shell commands.
+inline in the notebook by adding a '!' before the shell commands.
+
+After uploading all the training data, just do
+
+~~~~
+! pwd
+~~~~
+
+to see and change the working directory to run.
+
 
 ## Good Colab Example: 
 

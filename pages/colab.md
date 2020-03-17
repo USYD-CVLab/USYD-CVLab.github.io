@@ -16,7 +16,7 @@ Reference: [https://colab.research.google.com/notebooks/welcome.ipynb](https://c
 
 ## Usage of Colab
 
-1. (**Important!**) Link Google drive to upload images or documents.
+1.(**Important!**) Link Google drive to upload images or documents.
 
 1.1 Login google drive
 
